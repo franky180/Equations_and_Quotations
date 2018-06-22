@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{textcomp} % for \textopenbullet
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb} % \mathbb
+\usepackage{float} % Damit Bild/Tabellenicht gleitet [H]
+\usepackage{geometry} % Größe des Rands einstellen
+\usepackage{scrlayer-scrpage}
+ \usepackage{pdfpages}
+\geometry{legalpaper, margin=1.5in} %mit margin kann der Rand angepasst werden!
+
+%---document
+\begin{document}
+
+\pagestyle{scrheadings}
+\clearpairofpagestyles
+\ihead{Equations and Quotations}
+\cfoot{\pagemark}
+
+%\pagenumbering{roman} 
+\section*{\centering Einleitung}
+
+% % %Table of Contents
+\tableofcontents
+% % %
+\clearpage
+% % Begin Content
+
+\section{Equations}
+
+\section{Quotations}
+"abc"
+
+
+
+% % End Content
+\end{document}
