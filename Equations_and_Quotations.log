@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.13)  22 JUN 2018 13:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.13)  22 JUN 2018 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Vorlage_Auswertung.tex
-(./Vorlage_Auswertung.tex
+**Equations_and_Quotations.tex
+(./Equations_and_Quotations.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -751,8 +751,8 @@ File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count109
 \AM@templatesizebox=\box31
 )
-(./Vorlage_Auswertung.aux)
-\openout1 = `Vorlage_Auswertung.aux'.
+(./Equations_and_Quotations.aux)
+\openout1 = `Equations_and_Quotations.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
@@ -876,9 +876,9 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-(./Vorlage_Auswertung.toc)
+(./Equations_and_Quotations.toc)
 \tf@toc=\write3
-\openout3 = `Vorlage_Auswertung.toc'.
+\openout3 = `Equations_and_Quotations.toc'.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 29.
 
@@ -893,21 +893,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ] [2
 
-] (./Vorlage_Auswertung.aux) ) 
+] (./Equations_and_Quotations.aux) ) 
 Here is how much of TeX's memory you used:
  8040 strings out of 493029
- 143139 string characters out of 6136234
+ 143205 string characters out of 6136234
  247779 words of memory out of 5000000
  11438 multiletter control sequences out of 15000+600000
  9240 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 49i,20n,72p,328b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-sup
-er-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl
-1000.pfb>
-Output written on Vorlage_Auswertung.pdf (2 pages, 47969 bytes).
+ 49i,20n,72p,334b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/
+cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfsl1000.pfb>
+Output written on Equations_and_Quotations.pdf (2 pages, 47969 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
